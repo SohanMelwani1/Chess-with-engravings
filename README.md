@@ -22,6 +22,9 @@ The final assembled model should look like this
 
 <img width="1127" height="694" alt="Screenshot 2026-07-09 171315" src="https://github.com/user-attachments/assets/f6c12b71-f3e4-4038-b702-04231eee3591" />
 
+Printables file: https://www.printables.com/model/1776661-chess-with-engravings
+
+
 Print settings: 
 
 add minimal support
