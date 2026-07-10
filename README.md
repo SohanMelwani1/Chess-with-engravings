@@ -18,11 +18,17 @@ To assemble it place the pieces as in the picture
 
 Glue is required, so use a good plastic friendly glue to stick each grid piece of onto the grid connecting all of them together, I have engraved the name of the color to make it more convinient to set up the pieces, and Have made engraving of the pieces themselves.
 
-The final assembled model should look like this
+<img width="711" height="496" alt="Screenshot 2026-07-10 173700" src="https://github.com/user-attachments/assets/d4cfe2ec-4888-4983-a1d2-bbbeab67c231" />
+
+
+The final assembled model should look like this: <img width="1144" height="662" alt="Screenshot 2026-07-10 173151" src="https://github.com/user-attachments/assets/30802116-7dcb-4386-b14e-a679126e7c23" />
+
 
 <img width="1127" height="694" alt="Screenshot 2026-07-09 171315" src="https://github.com/user-attachments/assets/f6c12b71-f3e4-4038-b702-04231eee3591" />
 
 Printables file: https://www.printables.com/model/1776661-chess-with-engravings
+
+Demo: https://youtube.com/shorts/QiZwxNF1Pmc
 
 
 Print settings: 
